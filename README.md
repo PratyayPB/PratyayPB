@@ -19,6 +19,7 @@ I focus on building high-performance products with clean architecture, great UX,
 ### Frontend
 - **React**, **Next.js**
 - **TypeScript**
+- **Redux**
 - **Tailwind CSS**, **ShadCN UI**
 - **Framer Motion**
 - **Figma**
@@ -29,11 +30,16 @@ I focus on building high-performance products with clean architecture, great UX,
 - **GraphQL**
 - **REST APIs**
 - **Postman**
+- **Inngest** (background jobs & event-driven workflows)
+
+### Authentication & User Management
+- **Clerk**
 
 ### Databases
 - **MongoDB**
 - **MySQL**
 - **PostgreSQL**
+- **Neon Database**
 
 ### Payments & Integrations
 - **Stripe**
@@ -60,7 +66,7 @@ I focus on building high-performance products with clean architecture, great UX,
 - Interview simulation experience  
 - Focused on clarity, personalization, and career growth  
 
-**Tech:** MERN, Next.js, LLM (Gemini), Prisma, Tailwind
+**Tech:** MERN, LLM (Gemini),Tailwind, Mermaid-js
 
 ---
 
@@ -85,7 +91,7 @@ I focus on building high-performance products with clean architecture, great UX,
 - Supporters can contribute seamlessly  
 - Integrated **Razorpay payment gateway**  
 
-**Tech:** MERN, Razorpay, Tailwind
+**Tech:** MERN, Next.js, Razorpay, Tailwind
 
 ---
 
