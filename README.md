@@ -79,7 +79,7 @@ I focus on building high-performance products with clean architecture, great UX,
 - Secure **Stripe payment gateway**  
 - Scalable store management  
 
-**Tech:** MERN, Next.js, Stripe, Prisma, PostgreSQL
+**Tech:** MERN, Next.js, Stripe, Prisma, PostgreSQL, Clerk, Neon Database, Inngest
 
 ---
 
